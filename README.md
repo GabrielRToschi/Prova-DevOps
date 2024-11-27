@@ -1,0 +1,1 @@
+A aplicação exibe "Hello, DevOps!"
